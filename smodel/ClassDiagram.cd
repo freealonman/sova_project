@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CEarthObject">
+    <Position X="9.75" Y="2.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAgIAAAAAAAAAKAAAAAAAgAABAAAAAAIAAIAAABAE=</HashCode>
+      <FileName>CEarthObject.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="EarthObject" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CSattelite">
+    <Position X="3.25" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>EAQgwMQABAAAAIBANgAQAAAABAAACIAAAIAAIAABAAA=</HashCode>
+      <FileName>CSattelite.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ECIPosition" />
+      <Field Name="LLAPosition" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SEarthObject">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SEarthObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SECICoordinate" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>SECICoordinate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SECRCoordinate" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SECICoordinate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SLLACoordinate" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAIgAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SLLACoordinate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SSatelliteFileDesc">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>SSatelliteFileDesc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
