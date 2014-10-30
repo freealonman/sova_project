@@ -13,6 +13,7 @@ void glSat::draw(QPainter *_painter)
     //-------------------------
     //отрисовка текущегно положения
    glEObject::draw(_painter);
+   glEObject::draw(_painter);
 }
 
 
